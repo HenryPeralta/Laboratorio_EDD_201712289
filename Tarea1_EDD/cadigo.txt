@@ -1,0 +1,22 @@
+digraph G{ 
+ node[shape="box",style="filled",fillcolor="#EEEEE",color="#EEEEE"];
+node00731AC8[label="1"]
+node00731AE0[label="2"]
+node00731AF8[label="3"]
+node00733F30[label="5"]
+node00733F48[label="6"]
+node00733F60[label="7"]
+node00733F78[label="8"]
+node00733F60->node00733F78;
+ node00733F78->node00733F60;
+node00733F48->node00733F60;
+ node00733F60->node00733F48;
+node00733F30->node00733F48;
+ node00733F48->node00733F30;
+node00731AF8->node00733F30;
+ node00733F30->node00731AF8;
+node00731AE0->node00731AF8;
+ node00731AF8->node00731AE0;
+node00731AC8->node00731AE0;
+ node00731AE0->node00731AC8;
+}
