@@ -1,4 +1,4 @@
-#include<conio.h>
+
 #include<stdlib.h>
 #include<iostream>
 using namespace std;
@@ -29,7 +29,7 @@ Nodo *arbol = NULL;
 
 int main(){
     menu();
-    getch();
+
     return  0;
 }
 

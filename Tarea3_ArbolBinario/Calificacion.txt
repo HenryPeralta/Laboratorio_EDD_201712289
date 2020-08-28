@@ -1,0 +1,12 @@
+---------------Errores--------------
+1) no tienes delete arbol, por lo cual queda en memoria los datos
+---------------Recomendaciones------
+2) No programar todo en una clase
+3) usar encapsulamiento
+---------------Nota-----------------
+Arbol     20/40
+Preorden  20/20
+Inorden   20/20
+Postorden 20/20
+
+
